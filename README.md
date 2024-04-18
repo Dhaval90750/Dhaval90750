@@ -31,9 +31,9 @@
 
 
 <h1>My Stats</h1>
-<p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Thodge&show_icons=true&locale=en&layout=compact" alt="Soham-Thodge" /></p>
+<p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhaval90750&show_icons=true&locale=en&layout=compact" alt="Dhaval90750" /></p>
 
-<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Soham-Thodge&show_icons=true&locale=en" alt="Soham-Thodge" /></p>
+<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Dhaval90750&show_icons=true&locale=en" alt="Dhaval90750" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Thodge&" alt="Soham-Thodge" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhaval90750&" alt="Dhaval90750" /></p>
 
