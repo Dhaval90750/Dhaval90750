@@ -1,52 +1,41 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
- 
-<head>
-  <meta charset="utf-8">
-  <title>Simple Calculator using HTML, CSS and JavaScript</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
- 
-<body>
- 
-<table class="calculator" >
-  <tr>
-    <td colspan="3"> <input class="display-box" type="text" id="result" disabled /> </td>
- 
-    <!-- clearScreen() function clears all the values -->
-    <td> <input type="button" value="C" onclick="clearScreen()" id="btn" /> </td>
-  </tr>
-  <tr>
-    <!-- display() function displays the value of clicked button -->
-    <td> <input type="button" value="1" onclick="display('1')" /> </td>
-    <td> <input type="button" value="2" onclick="display('2')" /> </td>
-    <td> <input type="button" value="3" onclick="display('3')" /> </td>
-    <td> <input type="button" value="/" onclick="display('/')" /> </td>
-  </tr>
-  <tr>
-    <td> <input type="button" value="4" onclick="display('4')" /> </td>
-    <td> <input type="button" value="5" onclick="display('5')" /> </td>
-    <td> <input type="button" value="6" onclick="display('6')" /> </td>
-    <td> <input type="button" value="-" onclick="display('-')" /> </td>
-  </tr>
-  <tr>
-    <td> <input type="button" value="7" onclick="display('7')" /> </td>
-    <td> <input type="button" value="8" onclick="display('8')" /> </td>
-    <td> <input type="button" value="9" onclick="display('9')" /> </td>
-    <td> <input type="button" value="+" onclick="display('+')" /> </td>
-  </tr>
-  <tr>
-    <td> <input type="button" value="." onclick="display('.')" /> </td>
-    <td> <input type="button" value="0" onclick="display('0')" /> </td>
- 
-    <!-- calculate() function evaluates the mathematical expression -->
-    <td> <input type="button" value="=" onclick="calculate()" id="btn" /> </td>
-    <td> <input type="button" value="*" onclick="display('*')" /> </td>
-  </tr>
-</table>
- 
-<script type="text/javascript" src="script.js"></script>
- 
-</body>
- 
-</html>
+<h1 align="center">Hi 👋, I'm Dhaval Thavare</h1>
+<h3 align="center">A frontend developer and Google Cloud Practitioner</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaval90750&theme=matrix" alt="Dhaval" /></a> </p>
+
+- 🔭 I’m currently working on [Github Global Campus](https://education.github.com/globalcampus/student)
+
+- 🌱 I’m currently learning **HTML,CSS,ReactJs,Google Cloud,Azure**
+
+- 👯 I’m looking to collaborate on [Github](https://github.com/Dhaval90750)
+
+- 👨‍💻 All of my projects are available at [https://kronos2003.github.io/Soham_thodge_portfolio/](https://kronos2003.github.io/Soham_thodge_portfolio/)
+
+- 💬 Ask me about **Frontend development,Cloud computing**
+
+- 📫 How to reach me **thodgesoham17@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15lL_QHOogeZ29-_trZheCq9h4eaKddK4/view?usp=sharing](https://drive.google.com/file/d/15lL_QHOogeZ29-_trZheCq9h4eaKddK4/view?usp=sharing)
+
+# HacktoberFest 2023
+[![An image of @kronos2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kronos2003)](https://holopin.io/@kronos2003)
+  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-thodge-515676229)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thodge_soham)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thodgesoham17@gmail.com)
+
+</p>
+
+
+
+<h1>My Stats</h1>
+<p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Thodge&show_icons=true&locale=en&layout=compact" alt="Soham-Thodge" /></p>
+
+<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Soham-Thodge&show_icons=true&locale=en" alt="Soham-Thodge" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Thodge&" alt="Soham-Thodge" /></p>
+
